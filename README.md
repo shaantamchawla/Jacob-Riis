@@ -1,3 +1,3 @@
-# Holden-Caulfield
+# Jacob Riis: How the Other Half Lives
 
-A personal website for the protagonist of "The Catcher in the Rye"
+An online rendition of "How the Other Half Lives" by Jacob Riis.
