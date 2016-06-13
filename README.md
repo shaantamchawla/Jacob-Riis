@@ -1,2 +1,3 @@
-# Jacob-Riis
-A collection of stories and images depicting immigrant life in New York City, à la 19th-century Humans of New York.
+# Holden-Caulfield
+
+A personal website for the protagonist of "The Catcher in the Rye"
